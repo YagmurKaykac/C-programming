@@ -54,6 +54,5 @@ int main() {
         printf("%d ", *(digits[1] + i)); 
     }
     printf("\n");
-
     return 0;
 }
